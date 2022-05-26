@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://telegra.ph/file/a61c2c3d5ea2147ff990e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://telegra.ph/file/IMG-20220526-WA0291.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 </p>
 <p align="center">
-<a href="#"><img title="RAMDANI BOTZ VERSI 16.0.0" src="https://img.shields.io/badge/Ramdani Botz Versi 16.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="VALDES BOTZ VERSI 16.0.0" src="https://img.shields.io/badge/Ramdani Botz Versi 16.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramdaniofficial"><img title="Author" src="https://img.shields.io/badge/Author-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ooikybr"><img title="Author" src="https://img.shields.io/badge/Author-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/RamdaniOfficial/v16"><img title="Recode" src="https://img.shields.io/badge/Recode-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
@@ -115,11 +115,11 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/Ramdaniofficial)
-- [Linktree](https://linktr.ee/Ramdaniofficial)
-- [Dana](089512545999)
-- [Ovo](089512545999)
-- [Gopay](089512545999)
+- [Saweria](https://saweria.co/tidak tersedia)
+- [Linktree](https://linktr.ee/tidak tersedia)
+- [Dana](082283022077)
+- [Ovo](082283022077)
+- [Gopay](082283022077)
 
 # Official Group
 - [Group 1](https://chat.whatsapp.com/Gq71DUTFOhRE9efPYyobYu)
